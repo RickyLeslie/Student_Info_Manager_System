@@ -110,6 +110,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Course.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseDao.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseList.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseService.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\DataBase.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Main.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\MainMenuAction.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\ManagerAction.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Student.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentDao.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentList.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentService.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Util.cpp" />
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\View.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Course.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseDao.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseList.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseService.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\DataBase.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\MainMenuAction.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\ManagerAction.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Node.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Student.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentDao.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentList.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentService.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Util.h" />
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\View.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\course.txt" />
+    <Text Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\student.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

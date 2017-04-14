@@ -14,4 +14,100 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Course.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseDao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseService.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\DataBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\MainMenuAction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\ManagerAction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Student.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentDao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentService.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Course.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseDao.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseList.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseService.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\DataBase.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\MainMenuAction.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\ManagerAction.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Node.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Student.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentDao.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentList.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\StudentService.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Util.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\View.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\course.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\student.txt">
+      <Filter>源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
