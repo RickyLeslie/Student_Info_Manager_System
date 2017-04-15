@@ -57,6 +57,9 @@
     <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\View.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ADD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Course.h">
