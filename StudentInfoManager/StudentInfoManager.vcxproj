@@ -110,7 +110,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ADD.cpp" />
     <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\Course.cpp" />
     <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseDao.cpp" />
     <ClCompile Include="C:\Users\Kaka\Desktop\学习\大二上\数据结构\学生信息管理系统代码\CourseList.cpp" />
